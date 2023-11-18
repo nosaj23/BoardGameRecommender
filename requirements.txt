@@ -2,4 +2,7 @@ streamlit
 pandas
 ast
 openai
-scipy.spatial.distance
+scipy
+yfinance
+matplotlib
+seaborn
